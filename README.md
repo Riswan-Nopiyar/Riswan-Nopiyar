@@ -18,9 +18,11 @@
 ## 🌐 Website Integration
 
 Check out my website **[Nopiyar](https://www.nopiyar.my.id)** directly:
+<div style="border-radius:8px;">
 <a href="https://www.nopiyar.my.id" target="_blank">
-  <img src="https://github.com/user-attachments/assets/5d702cbe-09bc-425d-9488-179438f5cf29" alt="Screenshot of Nopiyar Website" style="width:100%; max-width:600px; border-radius:8px;">
+  <img src="https://github.com/user-attachments/assets/5d702cbe-09bc-425d-9488-179438f5cf29" alt="Screenshot of Nopiyar Website" style="width:100%; max-width:600px;">
 </a>
+</div>
 
 ---
 
