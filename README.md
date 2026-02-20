@@ -1,4 +1,4 @@
-# :pensive: I started my tech stack learning journey
+# I started my tech stack learning journey
 <div>
   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" title="Html 5" alt="Html 5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
